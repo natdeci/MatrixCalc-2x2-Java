@@ -36,6 +36,10 @@ An addition, subtraction, multiplication, and division calculator for 2 by 2 mat
 
 # Details
 
+**matrix1 and matrix2**
+
+  A 2D array that store numbers for each matrices. The one named matrix1 is the left matrix, matrix2 is the right matrix.
+
 **Method printmenu()**
 
   This function consists of printing syntaxes to make a console menu.
