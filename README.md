@@ -1,5 +1,5 @@
 # MatrixCalc-2x2-Java
-An addition, subtraction, multiplication, and division calculator for 2 by 2 matrices using Java. It focuses on the implementation of 2D arrays and using methods in Java.
+An addition, subtraction, multiplication, and division calculator for 2 by 2 matrices using Java. It focuses on the implementation of 2D arrays and using methods in Java. You can access the .java file in the src folder.
 
 # Program Flow Overview
 
